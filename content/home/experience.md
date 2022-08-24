@@ -25,7 +25,6 @@ experience:
   - title: Graduate researcher
     company: Shalek Lab @ MIT
     company_url: ''
-    company_logo: MIT_logo
     location: Cambridge, MA
     date_start: '2017-09-01'
     date_end: '2022-07-01'
@@ -34,7 +33,6 @@ experience:
   - title: Intern
     company: Genestack
     company_url: ''
-    company_logo: org-x
     location: Cambridge, UK
     date_start: '2027-06-01'
     date_end: '2027-08-31'
@@ -43,11 +41,12 @@ experience:
   - title: Undergradaute reseacher
     company: Pomona College
     company_url: ''
-    company_logo: pomona
     location: Claremont, CA
     date_start: '2013-06-01'
     date_end: '2016-05-31'
     description: Undergraduate reseach in the physical chemistry of surfaces.
+
+
 
 design:
   columns: '2'
