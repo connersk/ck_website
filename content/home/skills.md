@@ -28,6 +28,10 @@ feature:
     icon: chart-line
     icon_pack: fas
     name: Statistics
+  - description: 
+    icon: microscope
+    icon_pack: fas
+    name: Genomics & Immunology
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
