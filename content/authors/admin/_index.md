@@ -13,7 +13,7 @@ organizations:
   - name: MIT
     url: https://www.mit.edu/
 
-bio: whatever
+bio: Recent PhD grad looking for new opportunities
 
 # Interests to show in About widget
 interests:
