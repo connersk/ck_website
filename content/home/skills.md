@@ -21,13 +21,14 @@ feature:
     icon_pack: fab
     name: R
   - description: 
+    icon: fa-python
+    icon_pack: fab
+    name: Python
+  - description: 
     icon: chart-line
     icon_pack: fas
     name: Statistics
-  - description: 
-    icon: camera-retro
-    icon_pack: fas
-    name: Photography
+
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
