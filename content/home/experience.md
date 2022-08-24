@@ -27,17 +27,17 @@ experience:
     company_url: ''
     company_logo: MIT
     location: Cambridge, MA
-    date_start: '2017'
-    date_end: '2022'
-    description: 5 years of collaborative research at the intersection of data science, genomics, and immunology. 3 years of mentoring undergradaute researchers.
+    date_start: '2021-01-01'
+    date_end: '2021-01-02'
+    description: 5 years of collaborative research at the intersection of data science, genomics, and immunology. 
 
   - title: Intern
     company: Genestack
     company_url: ''
     company_logo: org-x
     location: Cambridge, UK
-    date_start: '2017'
-    date_end: '2017'
+    date_start: '2021-01-01'
+    date_end: '2021-01-02'
     description: Developed a software tool for single-cell RNA-sequencing analysis.
 
   - title: Undergradaute reseacher
@@ -45,8 +45,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Claremont, CA
-    date_start: '2013'
-    date_end: '2022'
+    date_start: '2021-01-01'
+    date_end: '2021-01-02'
     description: Undergraduate reseach in the physical chemistry of surfaces.
 
 design:
