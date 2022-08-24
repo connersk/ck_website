@@ -16,7 +16,7 @@ organizations:
 bio: Recent PhD grad looking for new opportunities
 
 # Interests to show in About widget
-skills:
+interests:
   - Machine learning & statistics
   - Data visualization
   - Computational biology
