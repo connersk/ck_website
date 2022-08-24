@@ -25,7 +25,7 @@ experience:
   - title: Graduate researcher
     company: Shalek Lab @ MIT
     company_url: ''
-    company_logo: 
+    company_logo: org-x
     location: Cambridge, MA
     date_start: '2017'
     date_end: '2022'
@@ -44,7 +44,7 @@ experience:
   - title: Undergradaute reseacher
     company: Pomona College
     company_url: ''
-    company_logo: 
+    company_logo: org-x
     location: Claremont, CA
     date_start: '2013'
     date_end: '2022'
