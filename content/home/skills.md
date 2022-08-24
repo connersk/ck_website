@@ -32,6 +32,14 @@ feature:
     icon: microscope
     icon_pack: fas
     name: Genomics & Immunology
+  - description: 
+    icon: people-group
+    icon_pack: fas
+    name: Teamwork & mentoring
+  - description: 
+    icon: timer
+    icon_pack: fas
+    name: Time management
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
