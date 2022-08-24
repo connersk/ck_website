@@ -22,28 +22,33 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Graduate researcher
+    company: Shalek Lab @ MIT
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    company_logo: 
+    location: Cambridge, MA
+    date_start: '2017'
+    date_end: '2022'
+    description: 5 years of collaborative research at the intersection of data science, genomics, and immunology.
+        3 years of mentoring undergradaute researchers.
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Intern
+    company: Genestack
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Cambridge, UK
+    date_start: '2017'
+    date_end: '2017'
+    description: Developed a software tool for single-cell RNA-sequencing analysis.
+
+  - title: Undergradaute reseacher
+    company: Pomona College
+    company_url: ''
+    company_logo: 
+    location: Claremont, CA
+    date_start: '2013'
+    date_end: '2022'
+    description: Undergraduate reseach in the physical chemistry of surfaces.
 
 design:
   columns: '2'

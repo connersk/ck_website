@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Computational Biology
+    - course: PhD in Computational & Systems Biology
       institution: MIT
       year: 2022
     - course: MPhil in Computational Biology
