@@ -25,12 +25,11 @@ experience:
   - title: Graduate researcher
     company: Shalek Lab @ MIT
     company_url: ''
-    company_logo: org-x
+    company_logo: MIT
     location: Cambridge, MA
     date_start: '2017'
     date_end: '2022'
-    description: 5 years of collaborative research at the intersection of data science, genomics, and immunology.
-        3 years of mentoring undergradaute researchers.
+    description: 5 years of collaborative research at the intersection of data science, genomics, and immunology. 3 years of mentoring undergradaute researchers.
 
   - title: Intern
     company: Genestack
