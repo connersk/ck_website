@@ -22,23 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Graduate researcher
+  - title: Computational biology PhD researcher
     company: Shalek Lab @ MIT
     company_url: ''
     location: Cambridge, MA
     date_start: '2017-09-01'
     date_end: '2022-07-01'
-    description: 5 years of collaborative research at the intersection of data science, genomics, and immunology. 
+    description: 5 years of collaborative research at the intersection of data science, genomics, and immunology. 3 years of mentoring undergraduate student research.
 
   - title: Intern
     company: Genestack
     company_url: ''
     location: Cambridge, UK
-    date_start: '2027-06-01'
-    date_end: '2027-08-31'
+    date_start: '2017-06-01'
+    date_end: '2017-08-31'
     description: Developed a software tool for single-cell RNA-sequencing analysis.
 
-  - title: Undergradaute reseacher
+  - title: Undergraduate reseacher
     company: Pomona College
     company_url: ''
     location: Claremont, CA
