@@ -13,9 +13,10 @@ organizations:
   - name: MIT
     url: https://www.mit.edu/
 
+bio: whatever
 
 # Interests to show in About widget
-#interests:
+interests:
   - Machine learning & statistics
   - Data visualization
   - Computational biology
@@ -59,7 +60,7 @@ social:
 #   icon_pack: ai
 #   link: uploads/resume.pdf
 
-bio: 'whatever'
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
