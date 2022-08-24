@@ -34,7 +34,7 @@ experience:
   - title: Intern
     company: Genestack
     company_url: ''
-    company_logo: s
+    company_logo: org-x
     location: Cambridge, UK
     date_start: '2027-06-01'
     date_end: '2027-08-31'
