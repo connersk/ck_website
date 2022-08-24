@@ -22,7 +22,7 @@ feature:
     name: R
   - description: 
     icon: fa-python
-    icon_pack: fab
+    icon_pack: fa-brands
     name: Python
   - description: 
     icon: chart-line
