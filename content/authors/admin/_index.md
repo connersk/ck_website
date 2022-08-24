@@ -6,7 +6,7 @@ title: Conner Kummerlowe
 superuser: true
 
 # Role/position/tagline
-role: PhD in Computational Biology
+role: PhD in Computational & Systems Biology
 
 # Organizations/Affiliations to show in About widget
 organizations:
