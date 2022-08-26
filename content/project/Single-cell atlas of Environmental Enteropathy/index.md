@@ -1,6 +1,6 @@
 ---
 title: Single-cell atlas of Environmental Enteropathy
-summary: An example of using the in-built project page.
+summary: Conducted unsupervised machine learning analyses and statistical hypothesis testing to generate new therapeutic development targets from a novel high-dimensional data set of intestinal cells
 tags:
   - Deep Learning
 date: '2022-08-25T00:00:00Z'
