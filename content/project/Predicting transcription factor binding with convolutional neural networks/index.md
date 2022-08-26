@@ -1,5 +1,5 @@
 ---
-title: Example Project
+title: Predicting transcription factor binding with convolutional neural networks
 summary: An example of using the in-built project page.
 tags:
   - Deep Learning
