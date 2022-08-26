@@ -39,3 +39,5 @@ We first performed architecture sweeps (filter width, number of feature detector
 For our regression task, we found that our model displayed improved Pearson's correlation, AUC, and average precision over the existing state of the art model (DeepBind) (https://www.nature.com/articles/nbt.3300). 
 
 In our classification model, we first tested our optimized architecture and found that due to the highly imbalanced nature of the classes in the data, it had a low average precisio of 0.24. Thus, we implemented three techniques for dealing with unbalanced classification: 1) oversampling data in the minority class 2) undersampling data in the majority class (low binder) data points 3) Using a loss function that was weighted by the number of data points in each class. We found that undersampling performed best, resulting in an average precision of 0.93 (a 0.69 improvement from our benchmark).
+
+See the code for this project on github here: https://github.com/connersk/DREAM5-CNN
