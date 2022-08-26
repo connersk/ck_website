@@ -18,7 +18,7 @@ bio: Recent PhD grad looking for new opportunities
 # Interests to show in About widget
 interests:
   - Machine learning & statistics
-  - Data visualization
+  - Data wrangling & visualization
   - Computational biology
   - Rock climbing, running, and cooking
 
