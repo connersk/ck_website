@@ -56,9 +56,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: uploads/resume.pdf
 
 
 
@@ -71,7 +71,7 @@ highlight_name: true
 
 Welcome! I recently graduated from MIT with a PhD in Computational and Systems Biology and am exploring job opportunities in data science, machine learning, software engineering, and/or computational biology.
 
-During my PhD, I developed and applied tools for analyzing complex biological datasets. In my first main project, I led an effort to generate and analyze a single-cell RNA-sequencing (scRNA-seq) atlas of the small intestine with and without Environmental Enteropathy (EE) - an intestinal disorder that is highly prevalent in low- and middle-income countries and is thought to contibute to childhood growth stunting and reduced oral vaccine efficacy. In my second main project, I co-led the development of a novel technology for screening drugs that leverages machine learning to enable drug screens that would otherwise be infeasible to conduct.
+During my PhD, I developed and applied tools for analyzing complex biological datasets. In my first main project, I led an effort to generate and analyze a single-cell RNA-sequencing (scRNA-seq) atlas of the small intestine with and without Environmental Enteropathy (EE) - an intestinal disorder that is highly prevalent in low- and middle-income countries and is thought to contibute to childhood growth stunting and reduced oral vaccine efficacy. In my second main project, I co-led the development of a novel technology for screening drugs that leverages machine learning to enable drug screens that would otherwise be infeasible to conduct at scale.
 
 Prior to my PhD, I was a Downing Scholar at the Unversity of Cambridge, where I obtained an MPhil in Computational Biology. Before that, I obtained my BA in Chemistry from Pomona College.
 
