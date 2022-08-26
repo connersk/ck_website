@@ -77,4 +77,4 @@ Prior to my PhD, I was a Downing Scholar at the Unversity of Cambridge, where I 
 
 Outside of work, I love to rock climb, trail run, cook food and read science fiction.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
