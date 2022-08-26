@@ -1,6 +1,6 @@
 ---
 title: Non-negative matrix factorization and regularized regression for drug development
-summary: Developed a non-negative matrix factorization and regularized regression based model for deconvoluting signals driven by biological perturbations in multiplexed experiments with high- dimensional measurements. Applied this approach to nominate biological factors that drive pancreatic cancer.
+summary: Developed a non-negative matrix factorization and regularized regression based model for deconvoluting signals driven by biological perturbations in multiplexed experiments with high-dimensional measurements. Applied this approach to nominate biological factors that drive pancreatic cancer.
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'
