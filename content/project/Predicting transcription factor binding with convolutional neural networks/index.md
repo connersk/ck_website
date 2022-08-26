@@ -3,13 +3,13 @@ title: Predicting transcription factor binding with convolutional neural network
 summary: Course project for MIT 6.867 Graduate Machine Learning. Co-authored with Ellen Zhong.
 tags:
   - Deep Learning, Data Science, Computational Biology, 
-date: '2016-04-27T00:00:00Z'
+date: '2022-08-26T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Created with biorender
   focal_point: Smart
 
 links:
