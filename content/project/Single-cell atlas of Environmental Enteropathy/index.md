@@ -30,6 +30,8 @@ url_video: ''
 # slides: example
 ---
 
+Environmental enteropathy (EE) is a subclinical condition of the small intestine that is a likely contributor to childhood malnutrition in low-income countries. In this project, I led a team of scientists in Zambia and the USA to generate a novel dataset of human intestinal cells from study participants with EE. By applying unsupervised machine learning tools (PCA, clustering, matrix factorization) and statistical hypothesis testing to this dataset, generated new potential therapeutic targets for EE.
 
-
-See the code for this project here: https://github.com/connersk/environmental_enteropathy
+Published in Science Translational Medicine: https://www.science.org/doi/10.1126/scitranslmed.abi8633
+Press: https://ragoninstitute.org/latest-news/single-cell-gut-inflammation/
+Code: https://github.com/connersk/environmental_enteropathy
