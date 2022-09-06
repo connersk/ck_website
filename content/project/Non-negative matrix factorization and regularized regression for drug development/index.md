@@ -30,4 +30,4 @@ url_video: ''
 # slides: example
 ---
 
-Top secret for now! My co-authors and I are currently finishing up the final edits for the manuscript for this paper. Check back for more detail when the manuscript hits bioRxiv!
+Top secret for now! My co-authors and I are currently finishing up the final edits for our manuscript. Check back for more detail when the manuscript hits bioRxiv!
